@@ -1,0 +1,37 @@
+
+    
+*{
+    background-color: #B0B6B8;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+h1{
+
+    background-color:#C59595 ;
+}
+
+#hobbies{
+
+    text-align: right;
+
+}
+#Cosas {
+
+    text-align: left;
+}
+
+p{
+
+    text-align: center;
+}
+
+h1{
+
+    text-align: left;
+}
+
+#serie{
+
+    background-color: #C59595;
+}
